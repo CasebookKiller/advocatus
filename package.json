@@ -1,9 +1,9 @@
 {
-  "name": "prime-reactjs-template-3",
+  "name": "advocatus",
   "private": true,
   "version": "0.0.1",
   "type": "module",
-  "homepage": "https://casebookkiller.github.io/prime-reactjs-template-3",
+  "homepage": "https://casebookkiller.github.io/advocatus",
   "scripts": {
     "deploy": "gh-pages -d dist",
     "dev": "vite",

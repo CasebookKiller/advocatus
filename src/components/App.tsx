@@ -86,7 +86,7 @@ function MainButtonManipulator() {
           })
           .then((buttonId: string|null) => {
             if (buttonId === 'btnproceed') {
-              const url = 'https://t.me/{reactjs-template}'; //измените путь на путь бота и приложения
+              const url = 'https://t.me/{advocatus}'; //измените путь на путь бота и приложения
               shareURL(`Посмотрите мое приложение ${url}`);
             } else {
               console.log(

@@ -104,7 +104,7 @@ export const InitDataPage: FC = () => {
           <section className="app placeholder">
             <img
               alt="Наклейка Telegram"
-              src="https://casebookkiller.github.io/prime-reactjs-template/telegram.gif" 
+              src="https://casebookkiller.github.io/advocatus/telegram.gif" 
               style={{display: 'block', width: '144px', height: '144px'}}
             />
             <dl>

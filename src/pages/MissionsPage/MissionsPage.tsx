@@ -57,7 +57,7 @@ export const MissionsPage: FC = () => {
       title: 'Поделиться',
       after: 'share',
       cb: () => {
-        const url = 'https://github.com/casebookkiller/reactjs-template';
+        const url = 'https://github.com/casebookkiller/advocatus';
         const msg = `Шаблон для создания telegram-приложения: ${url}`;
         shareURL(msg);
         return 'share';
